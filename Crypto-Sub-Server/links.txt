@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/30341336/node-js-simple-tcp-client-server-example-with-aes256-encryption-yields-decrypt
+https://stackoverflow.com/questions/27287306/sending-encrypted-strings-using-socket-in-python
+https://stackoverflow.com/questions/12524994/encrypt-decrypt-using-pycrypto-aes-256
+https://pypi.org/project/pycrypto/
